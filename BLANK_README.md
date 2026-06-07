@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- BLANK_README.md of/for Silus-news.bauska.org -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -7,8 +7,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -24,8 +22,6 @@
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -49,8 +45,6 @@
     <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -78,8 +72,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -88,8 +80,6 @@
 Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -103,8 +93,6 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -143,8 +131,6 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -168,8 +154,6 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -192,16 +176,12 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
 </a>
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the project_license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -212,8 +192,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -222,8 +200,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
